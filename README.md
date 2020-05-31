@@ -1,6 +1,8 @@
 # Amazon Apps
 A) venezia (Amazon App Store)
+
 B) Kindle
+
 C) PrimeVideo
 
 ## Incorporate this project into build
